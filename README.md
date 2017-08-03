@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-A simple game of Tic-Tac-Toe
+A simple Human vs AI game of Tic-Tac-Toe
 
 ## Installation
 Download the contents above into a new eclipse java project
